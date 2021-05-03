@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Abandoned Town","order":1,"parentId":0,"scrollX":884.7272727272727,"scrollY":502.90909090909093},
+{"id":2,"expanded":false,"name":"Market","order":2,"parentId":0,"scrollX":0,"scrollY":0},
+{"id":3,"expanded":false,"name":"Oasis","order":3,"parentId":0,"scrollX":884.7272727272727,"scrollY":502.90909090909093},
+{"id":4,"expanded":false,"name":"Mountain Village","order":4,"parentId":0,"scrollX":884.7272727272727,"scrollY":502.90909090909093},
+{"id":5,"expanded":false,"name":"Fortress","order":5,"parentId":0,"scrollX":1278.5454545454545,"scrollY":496.3636363636364},
+{"id":6,"expanded":false,"name":"Forest","order":6,"parentId":0,"scrollX":884.7272727272727,"scrollY":708}
+]

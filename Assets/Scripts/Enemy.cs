@@ -61,8 +61,8 @@ public class Enemy : MonoBehaviour
             {
                 rightColl.enabled = false;
                 leftColl.enabled = true;
-                transform.localScale = new Vector3(1, 1, 1);
-                rb.velocity = new Vector2(-speed, rb.velocity.y);
+                anim.Play("EnemyLeftWalk");
+                rb.velocity = new Vector2(-speed, 0);
             }
             else
             {
@@ -76,8 +76,8 @@ public class Enemy : MonoBehaviour
             {
                 leftColl.enabled = false;
                 rightColl.enabled = true;
-                transform.localScale = new Vector3(-1,1,1);
-                rb.velocity = new Vector2(speed, rb.velocity.y);    
+                anim.Play("EnemyRightWalk");
+                rb.velocity = new Vector2(speed, 0);    
             }
             else
             {
@@ -96,7 +96,7 @@ public class Enemy : MonoBehaviour
             {
                 upColl.enabled = false;
                 downColl.enabled = true;
-                transform.localScale = new Vector3(1, 1, 1);
+                anim.Play("EnemyDownWalk");
                 rb.velocity = new Vector2(rb.velocity.x, -speed);
             }
             else
@@ -111,7 +111,7 @@ public class Enemy : MonoBehaviour
             {
                 downColl.enabled = false;
                 upColl.enabled = true;
-                transform.localScale = new Vector3(1, -1, 1);
+                anim.Play("EnemyUpWalk");
                 rb.velocity = new Vector2(rb.velocity.x, speed);
             }
             else

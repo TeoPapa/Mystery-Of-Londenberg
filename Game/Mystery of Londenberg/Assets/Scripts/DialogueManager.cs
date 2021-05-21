@@ -6,7 +6,6 @@ using UnityEngine.UI;
 
 public class DialogueManager : MonoBehaviour
 {
-
     public Text nameText; //The UI property where the name will be put
     public Text diaText; //The UI property where the text will be put (dialogue)
 

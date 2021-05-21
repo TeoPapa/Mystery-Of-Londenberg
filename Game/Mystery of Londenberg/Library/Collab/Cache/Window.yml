@@ -14,29 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/FontsAndBackgrounds.meta
-    - Assets/FontsAndBackgrounds/Dialogue_Bg.png
-    - Assets/FontsAndBackgrounds/Dialogue_Bg.png.meta
-    - Assets/FontsAndBackgrounds/dogicapixel.ttf
-    - Assets/FontsAndBackgrounds/dogicapixel.ttf.meta
-    - Assets/Scenes/SampleScene.unity
-    - Assets/Scripts/DialogueManager.cs
-    - Assets/Scripts/DialogueManager.cs.meta
-    - Assets/Scripts/DialogueType.cs
-    - Assets/Scripts/DialogueType.cs.meta
-    - Assets/Sprites/Animations.meta
-    - Assets/Sprites/Animations/Dialogue.meta
-    - Assets/Sprites/Animations/Dialogue/Dialogue.controller
-    - Assets/Sprites/Animations/Dialogue/Dialogue.controller.meta
-    - Assets/Sprites/Animations/Dialogue/Dialogue_Close.anim
-    - Assets/Sprites/Animations/Dialogue/Dialogue_Close.anim.meta
-    - Assets/Sprites/Animations/Dialogue/Dialogue_Open.anim
-    - Assets/Sprites/Animations/Dialogue/Dialogue_Open.anim.meta
+    - Assets/Scripts/Pickup.cs
     - ProjectSettings/ProjectVersion.txt
     - 
-    m_Values: 0101010101010101010101010101010101010101
-  RevisionSummary: Created the DialogueManager and DialogueType Sc
+    m_Values: 000000
+  RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0
-  TabIndex: 0
+  TabIndex: 1

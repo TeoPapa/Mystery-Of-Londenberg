@@ -53,10 +53,16 @@
     <UnityVersion>2020.3.7f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\DialogueType.cs" />
+    <Compile Include="Assets\Scripts\CharacterChoice.cs" />
+    <Compile Include="Assets\Scripts\ChangeSceneWButton.cs" />
+    <Compile Include="Assets\Scripts\Enemy.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\InteractableItem.cs" />
     <Compile Include="Assets\Scripts\DialogueManager.cs" />
-    <Compile Include="Assets\Scripts\DialogueType.cs" />
+    <Compile Include="Assets\Scripts\ItemDescription.cs" />
+    <Compile Include="Assets\Scripts\Pickup.cs" />
+    <Compile Include="Assets\Scripts\Inventory.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -6,6 +6,27 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 16fb31c8d60531c47877bb859c91ff89
+  - enabled: 1
+    path: Assets/Scenes/ChooseCharacter.unity
+    guid: a079afcf9a4725d40bd3e88e43e6cf46
+  - enabled: 1
+    path: Assets/Scenes/TutorialScene.unity
+    guid: e164c8a48197dca40814354f28536f16
+  - enabled: 1
+    path: Assets/Scenes/PlayerHouse.unity
+    guid: 77635b84b4e05e64fb4cec3b002ebd14
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Mansion.unity
+    guid: 50947db4964683a49928823a572645ff
+  - enabled: 1
+    path: Assets/Scenes/Mansion2.unity
+    guid: 65bcbca49456bed448329b59659efaab
+  - enabled: 1
+    path: Assets/Scenes/Workshop.unity
+    guid: 99b783038cb46754c86db09096f19c58
   m_configObjects: {}

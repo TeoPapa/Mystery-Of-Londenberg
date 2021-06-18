@@ -6,7 +6,7 @@ The Game was created in the Unity Game Engine and the scripts used were all crea
 
 In the Assets folder are added the Assets/Tilepacks that are used in the game. Some of them might changed, after some editing in photoshop, but most of them are left as is. Also the scripts used in Unity are added.
 
-In the Mystery Of Londenberg Project folder, there is the whole Unity Project. In it there are the Assets, Tilepacks/Tilemaps, Scripts, Fonts, Animations and everything that we used to create the game in the Unity Engine.
+In the Mystery Of Londenberg Project folder, there is the whole Unity Project. In it there are the Assets, Tilepacks/Tilemaps, Scripts, Fonts, Animations and everything that we used to create the game in the Unity Engine. (Note: The Project is on a 7Zip file, because there are some contents of the project that are unable to be uploaded).
 
 In the Mystery OF Londeberg Game folder, there is the application for the game to run, outside of the project.
 

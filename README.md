@@ -19,9 +19,13 @@ The music of the game was created by Elgelon and the story was inspired after Ag
 Contributors on this project (Tentateam):
 
 Teodoros Papageorgiou (Elgelon)
+
 Alexander Lagousis (Propelar)
+
 Konstantina Baltzi
+
 Alexander Lemonas
+
 Patra Koroni
 Helen Katomeri
 Eridonna Heri

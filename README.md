@@ -4,7 +4,7 @@ This Repository is made for the creation of the game Mystery Of Londenberg.
 
 The Game was created in the Unity Game Engine and the scripts used were all created by our team members.
 
-In the Assets folder are added the Assets/Tilepacks that are used in the game. Some of them might changed, after some editing in photoshop, but most of them are left as is.
+In the Assets folder are added the Assets/Tilepacks that are used in the game. Some of them might changed, after some editing in photoshop, but most of them are left as is. Also the scripts used in Unity are added.
 
 In the Mystery Of Londenberg Project folder, there is the whole Unity Project. In it there are the Assets, Tilepacks/Tilemaps, Scripts, Fonts, Animations and everything that we used to create the game in the Unity Engine.
 

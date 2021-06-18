@@ -17,20 +17,19 @@ The credits for the Assets and the Tilesets are respectfully mentioned into the 
 The music of the game was created by Elgelon and the story was inspired after Agatha Christies story "The Murder Of Roger Ackroyd", but many of the story points changed, so it can help us, as a team and respect Agatha's wish to not let her books come to life.
 
 Contributors on this project (Tentateam):
-
-Teodoros Papageorgiou (Elgelon) 
-Alexander Lagousis (Propelar) 
-Konstantina Baltzi 
-Alexander Lemonas 
-Patra Koroni 
-Helen Katomeri 
-Eridonna Heri 
-Konstantinos Vlissaris 
-Georgia Trikaliotou 
-Marlen Ztoupi 
-Nickoleta Genetidou 
-Chris Baltzois 
-Sara Moutsa 
+ - Teodoros Papageorgiou (Elgelon)
+ - Alexander Lagousis (Propelar) 
+ - Konstantina Baltzi 
+ - Alexander Lemonas 
+ - Patra Koroni 
+ - Helen Katomeri 
+ - Eridonna Heri 
+ - Konstantinos Vlissaris 
+ - Georgia Trikaliotou 
+ - Marlen Ztoupi 
+ - Nickoleta Genetidou 
+ - Chris Baltzois 
+ - Sara Moutsa 
 
 
 The sole purpose of this project was to work as a team to create a software from start to finish. The creation of the project was due to the lesson Software Technology of the University of Macedonia UoM (You can learn more about our department here: https://www.uom.gr/en/dai )
